@@ -1,95 +1,102 @@
 
+<!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kiraneswar%20Takkella&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Cloud%20Enthusiast&descAlignY=55&descAlign=62" alt="Header Image" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi%2C+I'm+Kiraneswar+Takkella+👋;Software+Engineer;Full+Stack+Developer;AI+%2F+ML+Enthusiast" alt="Typing SVG" />
 </div>
 
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Cloud+%26+DevOps+Explorer;Cybersecurity+Learner" alt="Typing SVG" />
-  </a>
-</h2>
-
 <div align="center">
-  <a href="https://www.linkedin.com/in/kiraneswar-takkella-50b32a287/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:kiraneswar999@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/Kiraneswar">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
 <br />
 
+<!-- Two Column Layout for About & Experience -->
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" valign="top" style="border: none;">
+      <h3>👨‍💻 About Me</h3>
+      <p>Passionate software engineer focused on building scalable web applications, intelligent AI systems, and cloud-native solutions. I thrive at the intersection of <b>Full Stack Development</b> and <b>Machine Learning</b>.</p>
+      <ul>
+        <li>🔭 Focusing on <b>Generative AI</b> & <b>Cloud Architecture</b></li>
+        <li>💡 Goal: Architecting high-impact, scalable systems</li>
+        <li>📍 Based in Andhra Pradesh, India</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>💼 Experience & Education</h3>
+      <b>AI Intern</b> @ <i>Edubot Tech</i>
+      <ul>
+        <li>Built AI-powered learning systems & optimized ML pipelines</li>
+        <li>Integrated Firebase Auth & Hugging Face Transformers</li>
+      </ul>
+      <b>B.Tech Software Engineering</b> @ <i>SRM University AP</i>
+      <ul>
+        <li><b>GPA:</b> 9.32/10</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<table width="100%" style="border: none;">
+  <tr style="border: none;">
+    <td width="33%" valign="top" style="border: none;">
+      <b>Languages</b><br>
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perline=3" />
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <b>Frontend</b><br>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=3" />
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <b>Backend & Database</b><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&perline=3" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td width="33%" valign="top" style="border: none;">
+      <b>Cloud & DevOps</b><br>
+      <img src="https://skillicons.dev/icons?i=aws,docker,firebase,git,github&perline=3" />
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <b>AI & Machine Learning</b><br>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow&perline=3" />
+    </td>
+    <td width="33%" valign="top" style="border: none;">
+      <b>Certifications & Awards</b><br>
+      🏆 3rd Place — MSC Hackathon<br>
+      🍃 MongoDB Associate Dev<br>
+      🤖 SAP Gen AI Developer<br>
+      🎓 100xDevs Full Stack
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Analytics & Activity
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF&rank_icon=github" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&title_color=58A6FF&text_color=8B949E&sideNums=8B949E&sideLabels=8B949E&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&currStreakNum=8B949E" alt="GitHub Streak" width="48%" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Activity Graph" width="100%" />
 </div>
 
 <br />
-
----
-
-### 👨‍💻 About Me
-
-Passionate software engineer focused on building scalable web applications, intelligent AI systems, secure backend architectures, and cloud-native solutions. I thrive at the intersection of Full Stack Development, Machine Learning, Cybersecurity, Distributed Systems, and Cloud Technologies. 
-
-- 🔭 Currently working on advancing my skills in **Generative AI** and **Cloud-Native Architectures**.
-- 🌱 Currently learning deeper concepts of **Cybersecurity** and **LLM Security (Prompt Injection Detection)**.
-- 🎯 Career Goal: To architect and deploy high-impact, secure, and intelligent systems at scale.
-- ⚡ Fun Fact: *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
-
----
-
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**<br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts" alt="Languages" /><br/><br/>
-
-**Frontend**<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" alt="Frontend" /><br/><br/>
-
-**Backend**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" /><br/><br/>
-
-**Databases**<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" alt="Databases" /><br/><br/>
-
-**Cloud & DevOps**<br/>
-<img src="https://skillicons.dev/icons?i=aws,firebase,docker,git,github" alt="Cloud & DevOps" /><br/><br/>
-
-**AI & Machine Learning**<br/>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="AI/ML" />
-<br/><br/>
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" width="48%" />
-</div>
-<br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="100%" />
-</div>
-
----
-
-### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -102,5 +109,5 @@ Passionate software engineer focused on building scalable web applications, inte
 <br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="200" />
+  <i>Architecting intelligence, one commit at a time.</i>
 </div>
