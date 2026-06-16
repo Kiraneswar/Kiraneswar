@@ -5,7 +5,7 @@
 
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Cloud+%26+DevOps+Explorer;Cybersecurity+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Cloud+%26+DevOps+Explorer;" alt="Typing SVG" />
   </a>
 </h2>
 
@@ -22,10 +22,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat-square" alt="Profile Views" />
-</div>
 
 <br />
 
