@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kiraneswar%20Takkella&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20AI%20Engineer%20|%20Cloud%20Enthusiast&descAlignY=55&descAlign=62" alt="Header Image" />
 </div>
@@ -10,13 +10,13 @@
 </h2>
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/kiraneswar-takkella-50b32a287/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:kiraneswar999@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/Kiraneswar">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
@@ -42,34 +42,6 @@ Passionate software engineer focused on building scalable web applications, inte
 
 ---
 
-### 💼 Experience
-
-**AI Intern** @ *Edubot Tech*
-- Engineered and built AI-powered learning systems to enhance educational experiences.
-- Integrated **Firebase Authentication** for secure and seamless user access.
-- Leveraged **Hugging Face Transformer Models** for advanced NLP tasks.
-- Optimized Machine Learning pipelines for improved efficiency and performance.
-- Enhanced application scalability and reliability through robust architectural patterns.
-
----
-
-### 🎓 Education
-
-**Bachelor of Technology in Software Engineering**<br/>
-*SRM University AP*
-- **GPA:** 9.32/10
-- **Core Coursework:** Data Structures, Algorithms, DBMS, Operating Systems, Computer Networks
-
----
-
-### 🏆 Achievements & Certifications
-
-- 🏆 **3rd Place** — MSC Hackathon
-- 🎓 **100xDevs** Full Stack Web Development Program
-- 🍃 **MongoDB Associate Developer**
-- 🤖 **SAP Generative AI Developer**
-
----
 
 ### 🛠️ Tech Stack
 
@@ -132,5 +104,3 @@ Passionate software engineer focused on building scalable web applications, inte
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="200" />
 </div>
-
-```
