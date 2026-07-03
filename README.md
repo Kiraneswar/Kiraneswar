@@ -57,7 +57,7 @@ const visitor_pass = {
 
 <br/>
 
-<table width="100%">
+<!-- <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -92,7 +92,7 @@ const visitor_pass = {
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <p align="right"><a href="#room-2">→ Next Stop: The Workshop</a></p>
 
