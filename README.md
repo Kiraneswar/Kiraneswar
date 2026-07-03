@@ -1,197 +1,268 @@
-<!-- HERO -->
+<!-- ============================================================ -->
+<!-- ROOM 0: ENTRANCE                                            -->
+<!-- ============================================================ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:8b5cf6,50:14b8a6,100:6366f1&text=Kiraneswar%20Takkella&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=55&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=20&descAlign=50&descAlignY=72&animation=fadeIn&stroke=8b5cf6&strokeWidth=2" alt="Hero Banner" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=0:0f0c29,50:302b63,100:24243e&text=Kiraneswar%20Takkella&fontColor=a78bfa&fontSize=52&fontAlign=50&fontAlignY=52&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Cloud%20Enthusiast&descFontColor=14b8a6&descSize=18&descAlign=50&descAlignY=70&animation=twinkling&stroke=a78bfa&strokeWidth=1" alt="Entrance Banner"/>
 </p>
 
-<!-- TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications...;AI+Engineer+%C2%B7+LLM+Security+Researcher...;Full+Stack+%C2%B7+Cloud+%C2%B7+Generative+AI...;Open+to+high-impact+opportunities+%E2%86%92" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=620&lines=Welcome.+You%27re+about+to+take+a+tour...;Full+Stack+%C2%B7+AI+%C2%B7+Cloud+%E2%80%94+all+under+one+roof.;Ships+fast.+Thinks+deep.+Builds+to+last.;%F0%9F%9F%A2+Currently+accepting+visitors+(and+offers)." alt="Typing SVG"/>
 </p>
 
-<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://linkedin.com/in/kiraneswar-takkella" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kiraneswar-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=04060f" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/kiraneswar-takkella-50b32a287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Kiraneswar-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/>
   </a>&nbsp;
-  <a href="https://github.com/kiraneswar" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-kiraneswar-14b8a6?style=for-the-badge&logo=github&logoColor=white&labelColor=04060f" alt="GitHub"/>
+  <a href="https://github.com/Kiraneswar">
+    <img src="https://img.shields.io/badge/GitHub-kiraneswar-14b8a6?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" alt="GitHub"/>
   </a>&nbsp;
-  <a href="mailto:kiraneswar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kiraneswar%40gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=04060f" alt="Gmail"/>
+  <a href="mailto:kiraneswar999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kiraneswar999%40gmail.com-a78bfa?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Gmail"/>
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Status-OPEN%20TO%20WORK-8b5cf6?style=for-the-badge&labelColor=04060f" alt="Open To Work"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2-OPEN%20TO%20WORK-14b8a6?style=for-the-badge&labelColor=0f0c29" alt="Open To Work"/>
 </p>
 
 <br/>
 
-<!-- CONST DEV STORY -->
+> *You just walked through the door. This isn't another cookie-cutter dev profile — it's a walkthrough of how I think, what I build, and where I'm going. Each room ahead has a purpose. Take your time. The tour starts now.*
+
+<p align="right"><a href="#room-1">→ Next Stop: The Lobby</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:14b8a6&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- ROOM 1: THE LOBBY                                           -->
+<!-- ============================================================ -->
+
+<h3 id="room-1">🏛️ &nbsp;<code>Room 01 — The Lobby</code>&nbsp; <sup><sub>quick orientation before the real tour begins</sub></sup></h3>
+
+> *Before we go further — here's your visitor pass. Your host: Kiraneswar. Mission: architect systems that don't break under pressure. Clearance level: full stack, AI, cloud. Everything you need to know, in one glance.*
+
 ```typescript
-const dev = {
-  name:              "Kiraneswar Takkella",
-  role:              ["Full Stack Developer", "AI Engineer", "LLM Security Researcher"],
-  education:         "B.Tech @ SRM University-AP · Graduating May 2027",
-  stack: {
-    languages:       ["TypeScript", "Python", "Java", "C++"],
-    frontend:        ["React", "Next.js", "Tailwind CSS"],
-    backend:         ["Node.js", "Express", "REST APIs", "WebSockets"],
-    databases:       ["PostgreSQL", "MongoDB", "MySQL", "Firebase"],
-    cloud:           ["AWS", "Docker", "GitHub Actions"],
-    ai:              ["LangChain", "TensorFlow", "OpenAI API", "Prompt Engineering"],
-  },
-  currentlyBuilding: [
-    "Obsidian — real-time stock trading platform with WebSocket price feeds",
-    "Prompt Injection Detector — adversarial LLM security research",
-    "MiniPaytm — production-grade fintech wallet with transaction pipelines",
-  ],
-  goal:              "Ship systems that scale · Architect AI that's actually secure",
-  status:            "🟢 OPEN_TO_WORK",
-  reachOut:          "kiraneswar@gmail.com",
+const visitor_pass = {
+  host:            "Kiraneswar Takkella",
+  education:       "B.Tech CS @ SRM University-AP · Graduating May 2027",
+  expertise:       ["Full Stack Development", "AI Engineering", "Cloud Architecture", "LLM Security"],
+  currentMission:  "Architect secure, scalable, intelligent systems at global scale",
+  clearanceLevel:  "Full Stack + AI + Cloud",
+  currentlyAt:     ["Building Obsidian — real-time trading platform",
+                    "Researching LLM adversarial attacks & defenses",
+                    "Shipping MiniPaytm to production"],
+  status:          "🟢 OPEN_TO_WORK — internships & full-time roles",
+  contact:         "kiraneswar@gmail.com",
 } as const;
 ```
 
 <br/>
 
-<!-- TWO COLUMN TABLE -->
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 **⚡ Currently Shipping**
 
-- **Obsidian** — WebSocket-driven equity trading dashboard; architected real-time order books and portfolio analytics from scratch
-- **Prompt Injection Detector** — researching adversarial inputs against production LLMs; building detection pipelines using embedding-space analysis
-- **MiniPaytm** — end-to-end fintech wallet: JWT auth, atomic transactions, custom middleware, deployed on AWS
+- **Obsidian** — WebSocket-powered real-time equity trading dashboard. Designed the order book architecture and portfolio analytics engine from scratch.
+- **MiniPaytm** — ACID-compliant fintech wallet. Custom middleware, JWT auth, Razorpay webhook security, AWS deployment.
+- **Prompt Injection Detector** — NLP-based adversarial defense system. 88.3% detection accuracy on known injection patterns.
 
-**📖 Currently Learning**
+**📖 In the Learning Queue**
 
-- Distributed systems & consensus algorithms (Raft, Paxos)
+- Distributed consensus — Raft & Paxos internals
 - LLM red-teaming & AI safety evaluation frameworks
-- Advanced Kubernetes orchestration & GitOps workflows
+- Kubernetes production patterns & GitOps
 
 </td>
 <td width="50%" valign="top">
 
-**🧠 Engineering Philosophy**
+**🧠 The Way I Work**
 
-> *"Optimize for correctness first, then for speed. A fast wrong answer is just faster failure."*
+> *"Security is an architecture decision — not a feature you bolt on at the end."*
 
-- Security is an architecture decision, not an afterthought
-- Every abstraction should reduce cognitive load, not add to it
-- Ship early, instrument everything, iterate on data — not instinct
+- I deploy before I perfect. Real user feedback beats internal assumptions.
+- Every layer of the stack is a trust boundary. I design for that.
+- I optimize systems the same way I debug them — follow the data, not the instinct.
 
-**⚡ Off the Clock**
+**⚡ Off the Grid**
 
-- Competitive programming on Codeforces — because constraint solving is a mindset
-- Reading LLM security papers before they're mainstream
-- Reverse-engineering fintech UX to understand what trust looks like in product design
+- Competitive programmer — Codeforces is just constraint-solving under pressure, which is also my job description
+- Reading AI safety papers before they hit the mainstream tech press
+- Reverse-engineering fintech UX to study what *trust* looks like in a product
 
 </td>
 </tr>
 </table>
 
+<p align="right"><a href="#room-2">→ Next Stop: The Workshop</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:a78bfa&height=3&section=header" width="100%"/>
+
 <br/>
 
-<!-- TECH STACK -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:6366f1&height=3&section=header&reversal=false" width="100%"/>
-</p>
+<!-- ============================================================ -->
+<!-- ROOM 2: THE WORKSHOP                                        -->
+<!-- ============================================================ -->
 
-<p align="center">
-  <code>▸ LANGUAGES</code>
-</p>
+<h3 id="room-2">🔧 &nbsp;<code>Room 02 — The Workshop</code>&nbsp; <sup><sub>where the actual building happens</sub></sup></h3>
 
+> *Every icon on this wall has been used in production. Tested under load, debugged at 2am, deployed to real users. Nothing decorative. Nothing aspirational. This is the active toolkit.*
+
+<br/>
+
+<p align="center"><code>&nbsp;▸&nbsp; LANGUAGES &nbsp;</code></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&perLine=9&theme=dark" alt="Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:8b5cf6&height=2&section=header" width="80%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:302b63&height=2&section=header" width="100%"/>
 
-<p align="center">
-  <code>▸ FRONTEND</code>
-</p>
-
+<p align="center"><code>&nbsp;▸&nbsp; FRONTEND &nbsp;</code></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&perLine=9&theme=dark" alt="Frontend"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:14b8a6&height=2&section=header" width="80%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:0f0c29&height=2&section=header" width="100%"/>
 
-<p align="center">
-  <code>▸ BACKEND</code>
-</p>
-
+<p align="center"><code>&nbsp;▸&nbsp; BACKEND &nbsp;</code></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&perLine=9&theme=dark" alt="Backend"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:14b8a6&height=2&section=header" width="80%"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:14b8a6&height=2&section=header" width="100%"/>
 
-<p align="center">
-  <code>▸ DATABASES</code>
-</p>
-
+<p align="center"><code>&nbsp;▸&nbsp; DATABASES &nbsp;</code></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase&perLine=9&theme=dark" alt="Databases"/>
 </p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:14b8a6&height=2&section=header" width="100%"/>
+
+<p align="center"><code>&nbsp;▸&nbsp; CLOUD & DEVOPS &nbsp;</code></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14b8a6,100:6366f1&height=2&section=header" width="80%"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,github,git&perLine=9&theme=dark" alt="Cloud & DevOps"/>
 </p>
 
-<p align="center">
-  <code>▸ CLOUD & DEVOPS</code>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:a78bfa&height=2&section=header" width="100%"/>
 
+<p align="center"><code>&nbsp;▸&nbsp; AI & ML &nbsp;</code></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,github,git&perLine=9&theme=dark" alt="Cloud and DevOps"/>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:8b5cf6&height=2&section=header" width="80%"/>
-</p>
-
-<p align="center">
-  <code>▸ AI & ML</code>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perLine=9&theme=dark" alt="AI and ML"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perLine=9&theme=dark" alt="AI & ML"/>
 </p>
 
 <br/>
 
-<!-- GITHUB STATS -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:6366f1&height=3&section=header" width="100%"/>
-</p>
+<p align="right"><a href="#room-4">→ Next Stop: The Research Lab</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:14b8a6&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- ROOM 3: THE RESEARCH LAB                                    -->
+<!-- ============================================================ -->
+
+<h3 id="room-3">🔬 &nbsp;<code>Room 03 — The Research Lab</code>&nbsp; <sup><sub>do not touch the equipment</sub></sup></h3>
+
+> *Fewer visitors make it to this room. This is where I work on things that don't fully exist yet — where the papers are open on one screen and the debugger is on the other. Active research, live experiments, moving fast.*
+
+<br/>
+
+```console
+[LAB_CONSOLE] > initializing research environment...
+[LAB_CONSOLE] > loading modules...
+
+[LAB_CONSOLE] > prompt_injection_detector    .......... ACTIVE
+               ↳ accuracy   : 88.3% on known adversarial patterns
+               ↳ coverage   : jailbreaks · context hijacking · indirect injection
+               ↳ status     : expanding dataset, retraining pipeline
+
+[LAB_CONSOLE] > llm_security_suite           .......... IN PROGRESS
+               ↳ focus      : adversarial robustness in RAG architectures
+               ↳ next       : embedding-space anomaly detection
+
+[LAB_CONSOLE] > generative_ai_experiments    .......... RUNNING
+               ↳ area       : LLM + structured data · agentic workflows
+               ↳ tooling    : LangChain · OpenAI API · custom eval harness
+
+[LAB_CONSOLE] > distributed_systems_study    .......... LOADING
+               ↳ topics     : Raft consensus · CRDTs · event sourcing
+
+[LAB_CONSOLE] > status: building the future, one model at a time_
+```
+
+<br/>
+
+<p align="right"><a href="#room-4">→ Next Stop: The Rooftop</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:24243e&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- ROOM 4: THE ROOFTOP                                         -->
+<!-- ============================================================ -->
+
+<h3 id="room-4">🌃 &nbsp;<code>Room 04 — The Rooftop</code>&nbsp; <sup><sub>the view from up here</sub></sup></h3>
+
+> *This is my favorite spot. No ceiling. No roadmap slides, no corporate ladder, no safe choices. Just the view of where this is all heading — and a very clear picture of what I want to build next.*
+
+<br/>
+
+The goal isn't to get a job — it's to join a team that's building something that will look obvious in hindsight. I want to work somewhere that measures engineering quality by system resilience and user impact, not ticket velocity.
+
+I'm looking for environments where:
+- Security is a first-class design constraint, not a compliance checkbox
+- AI is being built for real use cases, not demo videos
+- The engineers argue about architecture at dinner because they actually care
+
+If that sounds like your team — I'd genuinely like to talk.
+
+<br/>
+
+> **"The best time to think about security is when you're drawing the first box on the architecture diagram. The second best time is before you ship to prod. After that, you're just damage control."**
+
+<br/>
+
+<p align="right"><a href="#room-5">→ Next Stop: The Front Desk</a></p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:a78bfa,100:14b8a6&height=3&section=header" width="100%"/>
+
+<br/>
+
+<!-- ============================================================ -->
+<!-- ROOM 5: THE FRONT DESK                                      -->
+<!-- ============================================================ -->
+
+<h3 id="room-5">🗝️ &nbsp;<code>Room 05 — The Front Desk</code>&nbsp; <sup><sub>end of tour · start of conversation</sub></sup></h3>
+
+> *Tour's over. But if something you saw today made you stop and think — the front desk is right here. No contact form, no chatbot, no "we'll get back to you." Just a direct line.*
+
+<br/>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kiraneswar&show_icons=true&theme=tokyonight&bg_color=04060f&title_color=8b5cf6&icon_color=14b8a6&text_color=c9d1d9&border_radius=10&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiraneswar&layout=compact&theme=tokyonight&bg_color=04060f&title_color=8b5cf6&icon_color=14b8a6&text_color=c9d1d9&border_radius=10&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <a href="https://www.linkedin.com/in/kiraneswar-takkella-50b32a287/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-a78bfa?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:kiraneswar999@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-kiraneswar999%40gmail.com-14b8a6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" alt="Gmail"/>
+  </a>&nbsp;
+  <a href="https://github.com/Kiraneswar">
+    <img src="https://img.shields.io/badge/GitHub-kiraneswar-a78bfa?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" alt="GitHub"/>
+  </a>
 </p>
 
-<!-- STREAK STATS -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kiraneswar&theme=tokyonight&background=04060f&ring=8b5cf6&fire=14b8a6&currStreakLabel=6366f1&sideLabels=14b8a6&currStreakNum=ffffff&sideNums=ffffff&dates=888888&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiraneswar&bg_color=04060f&color=14b8a6&line=14b8a6&point=8b5cf6&area=true&area_color=6366f1&hide_border=true&theme=tokyo-night&radius=8" alt="Contribution Graph" width="98%"/>
-</p>
+<p align="center"><sub>Response time: faster than your CI pipeline.</sub></p>
 
 <br/>
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=0:6366f1,50:14b8a6,100:8b5cf6&section=footer&reversal=true" alt="Footer Wave" width="100%"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=140&color=0:24243e,50:302b63,100:0f0c29&section=footer&reversal=true" alt="Footer"/>
+</p>
+
+<p align="center">
+  <sub>Designed with intent &nbsp;·&nbsp; Updated with every ship &nbsp;·&nbsp; <a href="#room-0">↑ Back to the top</a></sub>
 </p>
 
 ---
